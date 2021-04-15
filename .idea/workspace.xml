@@ -42,6 +42,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/test/app/pojo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,6 +53,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.jformdesigner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ProgramFile\IDEA\API_Test_For_5G_APP\src\main\java\com\test\app\pojo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -87,6 +93,8 @@
       <workItem from="1615454609379" duration="4503000" />
       <workItem from="1615463162645" duration="2262000" />
       <workItem from="1615469559962" duration="2392000" />
+      <workItem from="1617890665958" duration="42000" />
+      <workItem from="1618490213785" duration="3032000" />
     </task>
     <servers />
   </component>
