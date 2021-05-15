@@ -5,16 +5,13 @@ import org.springframework.stereotype.Component;
 /**
  * 存储基站简略信息
  */
-@Component
 public class BaseStationItem {
     private String address;
     private String deploymentStatus;
     private String operatingStatus;
     private String time;
 
-    public BaseStationItem(){}
-
-    public void setAll(String address, String deploymentStatus, String operatingStatus, String time){
+    public BaseStationItem(String address, String deploymentStatus, String operatingStatus, String time){
         this.address=address;
         this.operatingStatus=operatingStatus;
         this.deploymentStatus=deploymentStatus;

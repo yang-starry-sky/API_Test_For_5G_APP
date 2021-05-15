@@ -1,4 +1,9 @@
-com\test\app\pojo\BaseStaion\BaseStationItem.class
+com\test\app\pojo\EquipmentItem.class
+com\test\app\web\Controller.class
+com\test\app\pojo\Update.class
 com\test\app\AppApplication.class
-com\test\app\pojo\BaseStaion\BaseStationInfoItem.class
-com\test\app\web\BaseStaionController.class
+com\test\app\pojo\GraphicInfoItem.class
+com\test\app\pojo\BaseStationItem.class
+com\test\app\pojo\EquipmentInfoItem.class
+com\test\app\pojo\BaseStationInfoItem.class
+com\test\app\pojo\AreaActivityItem.class

@@ -6,15 +6,13 @@ import org.springframework.stereotype.Component;
  *此类存储单个设备的简略信息
  * 用于设备主界面的展示
  */
-@Component
 public class EquipmentItem {
     private String name;
     private String onlineStatus;
     private String operatingStatus;
     private String time;
 
-    public EquipmentItem(){}
-    public void setAll(String name, String onlineStatusStatus, String operatingStatus, String time){
+    public EquipmentItem(String name, String onlineStatusStatus, String operatingStatus, String time){
         this.name=name;
         this.onlineStatus = onlineStatusStatus;
         this.operatingStatus=operatingStatus;
